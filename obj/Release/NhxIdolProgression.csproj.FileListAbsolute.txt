@@ -1,0 +1,7 @@
+C:\Users\sound\OneDrive\Projects\Visual Studio\NhxIdolProgression\obj\Release\NhxIdolProgression.csproj.AssemblyReference.cache
+C:\Users\sound\OneDrive\Projects\Visual Studio\NhxIdolProgression\obj\Release\NhxIdolProgression.csproj.CoreCompileInputs.cache
+C:\Users\sound\OneDrive\Projects\Visual Studio\NhxIdolProgression\obj\Release\NhxIdolProgression\CHANGELOG.md
+C:\Users\sound\OneDrive\Projects\Visual Studio\NhxIdolProgression\obj\Release\NhxIdolProgression\manifest.json
+C:\Users\sound\OneDrive\Projects\Visual Studio\NhxIdolProgression\obj\Release\NhxIdolProgression\README.md
+C:\Users\sound\OneDrive\Projects\Visual Studio\NhxIdolProgression\obj\Release\NhxIdolProgression\NhxIdolProgression.dll
+C:\Users\sound\OneDrive\Projects\Visual Studio\NhxIdolProgression\obj\Release\NhxIdolProgression.dll

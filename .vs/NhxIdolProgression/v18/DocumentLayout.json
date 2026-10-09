@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sound\\OneDrive\\Projects\\Visual Studio\\NhxIdolProgression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDADC435-6F76-4325-9A28-18D57651986B}|NhxIdolProgression.csproj|c:\\users\\sound\\onedrive\\projects\\visual studio\\nhxidolprogression\\idolrecipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDADC435-6F76-4325-9A28-18D57651986B}|NhxIdolProgression.csproj|solutionrelative:idolrecipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDADC435-6F76-4325-9A28-18D57651986B}|NhxIdolProgression.csproj|c:\\users\\sound\\onedrive\\projects\\visual studio\\nhxidolprogression\\idols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDADC435-6F76-4325-9A28-18D57651986B}|NhxIdolProgression.csproj|solutionrelative:idols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDADC435-6F76-4325-9A28-18D57651986B}|NhxIdolProgression.csproj|c:\\users\\sound\\onedrive\\projects\\visual studio\\nhxidolprogression\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDADC435-6F76-4325-9A28-18D57651986B}|NhxIdolProgression.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdolRecipes.cs",
+              "DocumentMoniker": "C:\\Users\\sound\\OneDrive\\Projects\\Visual Studio\\NhxIdolProgression\\IdolRecipes.cs",
+              "RelativeDocumentMoniker": "IdolRecipes.cs",
+              "ToolTip": "C:\\Users\\sound\\OneDrive\\Projects\\Visual Studio\\NhxIdolProgression\\IdolRecipes.cs",
+              "RelativeToolTip": "IdolRecipes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T18:39:41.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Idols.cs",
+              "DocumentMoniker": "C:\\Users\\sound\\OneDrive\\Projects\\Visual Studio\\NhxIdolProgression\\Idols.cs",
+              "RelativeDocumentMoniker": "Idols.cs",
+              "ToolTip": "C:\\Users\\sound\\OneDrive\\Projects\\Visual Studio\\NhxIdolProgression\\Idols.cs",
+              "RelativeToolTip": "Idols.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T18:39:22.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\sound\\OneDrive\\Projects\\Visual Studio\\NhxIdolProgression\\Plugin.cs",
+              "RelativeDocumentMoniker": "Plugin.cs",
+              "ToolTip": "C:\\Users\\sound\\OneDrive\\Projects\\Visual Studio\\NhxIdolProgression\\Plugin.cs",
+              "RelativeToolTip": "Plugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T18:22:38.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

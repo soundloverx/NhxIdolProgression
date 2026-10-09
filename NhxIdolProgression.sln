@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37614.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhxIdolProgression", "NhxIdolProgression.csproj", "{EDADC435-6F76-4325-9A28-18D57651986B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDADC435-6F76-4325-9A28-18D57651986B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDADC435-6F76-4325-9A28-18D57651986B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDADC435-6F76-4325-9A28-18D57651986B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDADC435-6F76-4325-9A28-18D57651986B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D9E3C09-C494-4149-82FD-594688ABCC8E}
+	EndGlobalSection
+EndGlobal
