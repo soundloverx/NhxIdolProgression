@@ -19,25 +19,25 @@ Every idol of the Forge of Potential can be crafted at the artisan table. Battle
 
 ## Idol progression
 
-The idol an upgrade at the Forge of Potential takes moves up one tier every 4 levels of the item, counted from level 1, until it reaches Bloodgold idols. A bronze sword, for example, takes:
+The idol an upgrade at the Forge of Potential takes moves up one tier after every 5 levels of the item, until it reaches Bloodgold idols: the upgrades to levels 2-5 take the idol the item's recipe asks for, the upgrades to levels 6-10 the next tier, and so on. A bronze sword, for example, takes:
 
-| Upgrading from | Idol |
+| Upgrading to | Idol |
 |----|----|
-| level 1-4 | Bronze Battle Idol |
-| level 5-8 | Iron Battle Idol |
-| level 9-12 | Silver Battle Idol |
-| level 13-16 | Black Metal Battle Idol |
-| level 17-20 | Black Marble Battle Idol |
-| level 21-24 | Flametal Battle Idol |
-| level 25 and up | Bloodgold Battle Idol |
+| level 2-5 | Bronze Battle Idol |
+| level 6-10 | Iron Battle Idol |
+| level 11-15 | Silver Battle Idol |
+| level 16-20 | Black Metal Battle Idol |
+| level 21-25 | Black Marble Battle Idol |
+| level 26-30 | Flametal Battle Idol |
+| level 31 and up | Bloodgold Battle Idol |
 
-Bloodgold idols wait until the item is at level 10: no upgrade to level 10 or lower takes them, unless the item's own recipe asks for Bloodgold idols. Until then, the Flametal idol stays. Mistlands items (Black Marble idols) and Ashlands items (Flametal idols) take:
+Bloodgold idols also wait for the upgrade to level 11, unless the item's own recipe asks for Bloodgold idols: until then, the Flametal idol stays. This only changes anything for Ashlands items (Flametal idols), which would otherwise move to Bloodgold idols with the upgrade to level 6. Mistlands items (Black Marble idols) and Ashlands items take:
 
-| Upgrading from | Mistlands item | Ashlands item |
+| Upgrading to | Mistlands item | Ashlands item |
 |----|----|----|
-| level 1-4 | Black Marble Idol | Flametal Idol |
-| level 5-9 | Flametal Idol | Flametal Idol |
-| level 10 and up | Bloodgold Idol | Bloodgold Idol |
+| level 2-5 | Black Marble Idol | Flametal Idol |
+| level 6-10 | Flametal Idol | Flametal Idol |
+| level 11 and up | Bloodgold Idol | Bloodgold Idol |
 
 Weapons take battle idols and armor takes protection idols, as their recipes ask. Each upgrade takes as many idols as the item's recipe asks for, usually 1. Items from other mods follow the same rules when their recipe asks for one of the game's idols.
 
