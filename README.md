@@ -31,6 +31,14 @@ The idol an upgrade at the Forge of Potential takes moves up one tier every 4 le
 | level 21-24 | Flametal Battle Idol |
 | level 25 and up | Bloodgold Battle Idol |
 
+Bloodgold idols wait until the item is at level 10: no upgrade to level 10 or lower takes them, unless the item's own recipe asks for Bloodgold idols. Until then, the Flametal idol stays. Mistlands items (Black Marble idols) and Ashlands items (Flametal idols) take:
+
+| Upgrading from | Mistlands item | Ashlands item |
+|----|----|----|
+| level 1-4 | Black Marble Idol | Flametal Idol |
+| level 5-9 | Flametal Idol | Flametal Idol |
+| level 10 and up | Bloodgold Idol | Bloodgold Idol |
+
 Weapons take battle idols and armor takes protection idols, as their recipes ask. Each upgrade takes as many idols as the item's recipe asks for, usually 1. Items from other mods follow the same rules when their recipe asks for one of the game's idols.
 
 The Forge of Potential's item list, the requirements and the craft button all use the idol each item needs, so an item is only greyed out when you really can't afford its next upgrade. With AzuCraftyBoxes, idols in nearby containers count too.

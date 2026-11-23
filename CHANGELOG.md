@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.0
+- Bloodgold idols are only asked for from the upgrade to level 11 on; the upgrades before it take Flametal idols instead. Mistlands items now reach level 10 with Flametal idols (Bloodgold from level 9 before), and Ashlands items stay on Flametal idols up to level 10 (Bloodgold from level 5 before). Items whose recipe asks for Bloodgold idols still take them from the start
+
 ## v1.0.0
 - Idol crafting and idol progression taken from Reforged Potential 2.0.7, which this mod replaces
 - Every idol is craftable at the artisan table, with one recipe per tier shared by battle and protection idols. The recipes are no longer configurable. They start from Reforged Potential's defaults, with these changes:

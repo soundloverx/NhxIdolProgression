@@ -19,7 +19,7 @@ namespace NhxIdolProgression
             new[] { ("Silver", 10), ("FreezeGland", 5), ("Obsidian", 5) },                 // Silver
             new[] { ("BlackMetal", 10), ("Needle", 2), ("Tar", 5) },                       // Black Metal
             new[] { ("BlackMarble", 20), ("BugMeat", 10), ("Carapace", 10) },              // Black Marble
-            new[] { ("FlametalNew", 10), ("CharcoalResin", 2), ("ProustitePowder", 5) },   // Flametal
+            new[] { ("FlametalNew", 10), ("Grausten", 10), ("ProustitePowder", 2) },       // Flametal
             new[] { ("Gold", 10), ("AncientCoin", 10), ("FrostCore", 1) }                  // Bloodgold
         };
 

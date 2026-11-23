@@ -18,7 +18,7 @@ namespace NhxIdolProgression
     {
         internal const string PluginGuid = "NhxIdolProgression";
         private const string PluginName = "NhxIdolProgression";
-        private const string PluginVersion = "1.0.0";
+        private const string PluginVersion = "1.1.0";
 
         internal static Plugin Instance { get; private set; }
         internal static ManualLogSource Log { get; private set; }
