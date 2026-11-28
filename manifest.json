@@ -1,8 +1,8 @@
 {
   "name": "NhxIdolProgression",
-  "version_number": "1.2.0",
+  "version_number": "1.3.0",
   "website_url": "",
-  "description": "Private mod: craftable Forge of Potential idols, idol progression with the item's level, and chat announcements of upgrade results. Not published on Thunderstore.",
+  "description": "Private mod: craftable Forge of Potential idols, idol progression with the item's level, upgrades that never break items, and chat announcements of upgrade results. Not published on Thunderstore.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
     "ValheimModding-Jotunn-2.30.2"

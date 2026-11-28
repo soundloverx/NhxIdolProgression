@@ -2,6 +2,7 @@ using BepInEx;
 using BepInEx.Configuration;
 using BepInEx.Logging;
 using HarmonyLib;
+using Jotunn.Managers;
 using Jotunn.Utils;
 using System.Reflection;
 
@@ -18,7 +19,7 @@ namespace NhxIdolProgression
     {
         internal const string PluginGuid = "NhxIdolProgression";
         private const string PluginName = "NhxIdolProgression";
-        private const string PluginVersion = "1.2.0";
+        private const string PluginVersion = "1.3.0";
 
         internal static Plugin Instance { get; private set; }
         internal static ManualLogSource Log { get; private set; }
@@ -39,13 +40,14 @@ namespace NhxIdolProgression
                 "Announce Upgrades",
                 true,
                 new ConfigDescription(
-                    "Announce in every player's chat when someone upgrades an item at the Forge of Potential, and whether it was upgraded, lost a level or was destroyed. The server's setting applies to every player.",
+                    "Announce in every player's chat when someone upgrades an item at the Forge of Potential, and whether it was upgraded or failed. The server's setting applies to every player.",
                     null,
                     new ConfigurationManagerAttributes { IsAdminOnly = true }
                 )
             );
 
             IdolRecipes.Register();
+            ItemManager.OnItemsRegistered += NoBreakUpgrades.RemoveIdolBreakChance;
 
             Assembly assembly = Assembly.GetExecutingAssembly();
             _harmonyInstance = new Harmony(PluginGuid);
@@ -56,6 +58,7 @@ namespace NhxIdolProgression
 
         private void OnDestroy()
         {
+            ItemManager.OnItemsRegistered -= NoBreakUpgrades.RemoveIdolBreakChance;
             _harmonyInstance?.UnpatchSelf();
 
             Log?.LogInfo($"{PluginName} v{PluginVersion} unloaded.");

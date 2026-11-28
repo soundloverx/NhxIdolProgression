@@ -1,6 +1,6 @@
 # NhxIdolProgression
 
-Private mod for our Valheim server, not published on Thunderstore. It replaces Reforged Potential, keeping only its craftable idols and its idol progression, plus the upgrade announcements.
+Private mod for our Valheim server, not published on Thunderstore. It replaces Reforged Potential, keeping only its craftable idols and its idol progression, plus the upgrade announcements. Upgrades at the Forge of Potential no longer break items.
 
 ## Craftable idols
 
@@ -14,7 +14,7 @@ Every idol of the Forge of Potential can be crafted at the artisan table. Battle
 | Silver Battle / Protection Idol | 10 Silver, 5 Freeze Gland, 5 Obsidian |
 | Black Metal Battle / Protection Idol | 10 Black Metal, 2 Needle, 5 Tar |
 | Black Marble Battle / Protection Idol | 20 Black Marble, 10 Seeker Meat, 10 Carapace |
-| Flametal Battle / Protection Idol | 10 Flametal, 2 Charcoal Resin, 5 Proustite Powder |
+| Flametal Battle / Protection Idol | 10 Flametal, 10 Grausten, 2 Proustite Powder |
 | Bloodgold Battle / Protection Idol | 10 Bloodgold, 10 Ancient Coin, 1 Frostcore |
 
 ## Idol progression
@@ -43,11 +43,15 @@ Weapons take battle idols and armor takes protection idols, as their recipes ask
 
 The Forge of Potential's item list, the requirements and the craft button all use the idol each item needs, so an item is only greyed out when you really can't afford its next upgrade. With AzuCraftyBoxes, idols in nearby containers count too.
 
-The chance to succeed, lose a level or break the item is the game's, improved by ImpactfulSkills' forging skill.
+## No broken items
+
+Upgrades at the Forge of Potential never break the item: every idol's chance to break it is 0. An upgrade that doesn't succeed loses a level instead, but never takes the item below level 1, so a level 1 item that fails stays at level 1. The chance to succeed is the game's, improved by ImpactfulSkills' forging skill, and ImpactfulSkills' odds in the Forge's panel show 0% to break.
+
+The message in the center of the screen after a failed upgrade shows its text again ("Refining of ... failed, downgraded to level ..."): the game showed [msg_upgrader_failed] instead.
 
 ## Upgrade announcements
 
-Every upgrade at the Forge of Potential is announced in every player's chat: upgraded, lost a level, or destroyed.
+Every upgrade at the Forge of Potential is announced in every player's chat: upgraded, or failed and lost a level.
 
 ## Config
 

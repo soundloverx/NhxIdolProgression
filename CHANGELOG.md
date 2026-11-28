@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.3.0
+- Upgrades at the Forge of Potential never break the item
+
 ## v1.2.0
 - The idol tier now moves up after each upgrade to a multiple of 5: the upgrades to levels 2-5 take the recipe's idol, to 6-10 the next tier, to 11-15 the one after, and so on (2-5, 6-9, 10-13... before). A bronze sword now takes Bloodgold idols from the upgrade to level 31 (26 before). Mistlands and Ashlands items are unchanged: Flametal idols up to level 10, Bloodgold idols from the upgrade to level 11
 

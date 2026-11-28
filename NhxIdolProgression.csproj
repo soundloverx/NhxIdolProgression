@@ -96,6 +96,7 @@
     <Compile Include="IdolRecipes.cs" />
     <Compile Include="Idols.cs" />
     <Compile Include="IdolSwap.cs" />
+    <Compile Include="NoBreakUpgrades.cs" />
     <Compile Include="Patches\IdolProgressionPatches.cs" />
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
